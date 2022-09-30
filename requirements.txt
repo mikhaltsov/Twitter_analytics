@@ -18,7 +18,7 @@ gensim==3.8.1
 hyperopt==0.2.3
 idna==2.8
 jmespath==0.9.4
-joblib==0.14.1
+joblib==1.2.0
 kiwisolver==1.1.0
 langdetect==1.0.7
 matplotlib==3.1.3
